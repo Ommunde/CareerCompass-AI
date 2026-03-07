@@ -85,3 +85,5 @@ This template comes with [Tailwind CSS](https://tailwindcss.com/) already config
 ---
 
 Built with ❤️ using React Router.
+
+Deployed Link: https://jsm-careercompass-ai-2u0mi.puter.site
